@@ -10,7 +10,7 @@ A real-time chatroom application built with Node.js, utilizing Express for the s
 
 ## Installation
 
-Clone the repository:
+First, clone the repository to your local machine:
 
 ```bash
 # Install dependencies
